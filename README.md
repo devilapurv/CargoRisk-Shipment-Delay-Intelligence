@@ -9,17 +9,17 @@ CargoRisk AI is an end-to-end supply-chain analytics project that estimates the 
 ### 1. Individual shipment prediction
 Choose shipping mode, scheduled shipping days, order region, category, quantity, and order value. The app displays a risk score, risk category, priority, and recommended action.
 
-![Individual shipment prediction](screenshots/Dashboard1.png)
+![Individual shipment prediction](Dashboard1.png)
 
 ### 2. Bulk CSV assessment
 Upload multiple shipments and explore the risk distribution, number of high-risk records, and average risk score.
 
-![Bulk shipment assessment](screenshots/Dashboard2.png)
+![Bulk shipment assessment](Dashboard2.png)
 
 ### 3. Prioritized shipment report
 Review orders sorted by predicted risk, with shipping details and suggested follow-up actions. Download the report as CSV.
 
-![Prioritized shipment report](screenshots/Dashboard3.png)
+![Prioritized shipment report](Dashboard3.png)
 
 ## ✨ Features
 
